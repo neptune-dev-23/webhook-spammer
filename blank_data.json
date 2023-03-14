@@ -1,0 +1,6 @@
+{
+    "logging_webhook": "webhook-here",
+    "spammed_count": "integer-here",
+    "message_count": "integer-here",
+    "Don't forget to": "rename this to data.json"
+}
